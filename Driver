@@ -93,7 +93,6 @@ class CSVDataMissing extends Exception {
  * to the file in question. In addition, this program can handle 2 exceptions; CSVAttributeMissing 
  * and CSVDataMissing.
  * 
- * @author  Tanya So Tin Yan ID#40208954 and Fadoua Doghmane ID#40198495
  * */
 public class Driver {
 	
